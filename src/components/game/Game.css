@@ -1,0 +1,39 @@
+.game-buttons {
+    margin:auto;
+    text-align: center;
+    padding-top:20px;
+}
+
+.reset-button {
+    box-shadow: rgb(207, 134, 108) 0px 1px 0px 0px inset;
+    background: linear-gradient(rgb(208, 69, 27) 5%, rgb(188, 51, 21) 100%) rgb(208, 69, 27);
+    border-radius: 3px;
+    border: 1px solid rgb(148, 41, 17);
+    display: inline-block;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    font-family: "Arial", "sans-serif";
+    font-size: 13px;
+    font-weight: bold;
+    padding: 6px 24px;
+    text-decoration: none;
+    text-shadow: rgb(133, 70, 41) 0px 1px 0px;
+}
+
+.reset-button:hover {
+    box-shadow: rgb(207, 134, 108) 0px 1px 0px 0px inset;
+    background: linear-gradient(rgb(188, 51, 21) 5%, rgb(208, 69, 27) 100%) rgb(188, 51, 21);
+    border-radius: 3px;
+    border: 1px solid rgb(148, 41, 17);
+    display: inline-block;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    font-family: "Arial", "sans-serif";
+    font-size: 13px;
+    font-weight: bold;
+    padding: 6px 24px;
+    text-decoration: none;
+    text-shadow: rgb(133, 70, 41) 0px 1px 0px;
+}
+
+

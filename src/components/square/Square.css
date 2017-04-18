@@ -1,0 +1,30 @@
+.square {
+    border-radius: 1em;
+    width:90px;
+    height:90px;
+    background: #1E8BC3;
+    color: black;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    vertical-align: middle;
+    -webkit-transition: background-color .4s;
+    transition: background-color .4s;
+    margin:3px;
+}
+
+.selected {
+    background: #3A539B;
+}
+
+.square:hover {
+    background: #22313F;
+}
+
+.inner-square {
+    margin-top: 16px;
+    font-size: 48px;
+    color: #FFFFFF;
+    text-align:center;
+    text-shadow: 1px 1px #000000;
+}
